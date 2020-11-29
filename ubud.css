@@ -130,3 +130,18 @@
   .titre img {
       width: 20%;
   }
+
+  /* numéro de téléphone  */
+
+  header .titre, .numero {
+      display : inline-block;
+  }
+
+  header a {
+      color : #fff;
+      text-decoration: none;
+  }
+
+  .numero {
+      margin-left: 20%;
+  }
