@@ -7,6 +7,14 @@
     margin: 0;
     background-color: #0e3577;
 }
+
+/* header  */
+header{
+    width: 100%;
+    margin-top: 2em;
+    margin-left: 2em;
+    position: fixed;
+}
   #webapp_cover
   {
       position: absolute;
