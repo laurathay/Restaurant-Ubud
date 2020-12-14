@@ -43,6 +43,7 @@ header{
       display: block;
       height: 29px;
       cursor: pointer;
+      margin-top: 2em;
   }
   
   #menu_label:before, #menu_label:after, #menu_text_bar
@@ -153,3 +154,15 @@ header{
   .numero {
       margin-left: 20%;
   }
+
+/* ---------------------------- */
+  /* ------- main -------- */
+/* ---------------------------- */
+
+.devanture {
+    width : 80%;
+    min-width: 50%;
+    min-height: 50%;
+    height: 50%;
+    z-index: 0;
+}
