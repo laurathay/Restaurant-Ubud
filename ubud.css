@@ -479,7 +479,7 @@ main p {
   }
   
   .container-gallery > * {
-    background-color: #fff;
+    /* background-color: #fff; */
     font-size: 30px;
     display: flex;
     align-items: center;
