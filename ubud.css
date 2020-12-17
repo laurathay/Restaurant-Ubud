@@ -386,7 +386,7 @@ header{
 	font-weight: 800;
 }
 .E img {
-	mix-blend-mode: overlay;
+	/* mix-blend-mode: overlay; */
 	grid-column: 3 / 5;
 	grid-row: 3 / 6;
 }
@@ -419,10 +419,10 @@ header{
 /* ---------------------------- */
 
 .devanture {
-     width : 80%; 
+     width : 65%; 
      min-width: 50%;
     min-height: 50%; 
-    height: 300%;
+    height: 190%;
     z-index: 0;
 }
 
