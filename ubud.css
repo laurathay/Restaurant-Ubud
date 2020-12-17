@@ -424,6 +424,14 @@ header{
     z-index: 0;
 }
 
+@media only screen and (min-device-width : 375px) and (max-device-width : 667px) {
+  .devanture {
+    height : 0%;
+    z-index: 0;
+  }
+
+}
+
 
 .carousel-item.active,
 .carousel-item-next,
@@ -473,7 +481,7 @@ main p {
     overflow: hidden;
   
     grid-template-columns: repeat(3, 1fr);
-      grid-gap: 0; /* px si tu veux que les photos se touchent sans espace*/
+      grid-gap: 1em; /* px si tu veux que les photos se touchent sans espace*/
       grid-auto-rows: minmax(200px, auto);
   }
   
