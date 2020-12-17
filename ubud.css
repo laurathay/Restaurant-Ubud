@@ -49,7 +49,7 @@ header{
       display: block;
       height: 29px;
       cursor: pointer;
-      margin-top: 16.5em;
+      margin-top: 35.5em;
   }
   
   #menu_label:before, #menu_label:after, #menu_text_bar
@@ -418,13 +418,12 @@ header{
   /* ------- main -------- */
 /* ---------------------------- */
 
+
 .devanture {
-     width : 65%; 
-     min-width: 50%;
-    min-height: 50%; 
-    height: 190%;
+    height: 315%;
     z-index: 0;
 }
+
 
 .carousel-item.active,
 .carousel-item-next,
@@ -517,7 +516,7 @@ main p {
     position: relative;
     cursor: pointer;
     letter-spacing: 0.07em;
-    top: -3em;
+    top: -8em;
     left: 3.5em;
     text-shadow: grey 2px 2px;
   }
